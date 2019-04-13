@@ -1,5 +1,5 @@
 # Add  code here!
 
 Prime.each(100) do |prime|
-  p rprime
+  p prime
 end
