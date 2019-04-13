@@ -3,3 +3,4 @@
 
 prime = []
 
+prime.each 
