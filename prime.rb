@@ -3,4 +3,6 @@
 
 prime = []
 
-prime.each 
+prime.each do |x|
+  x / x == 0
+  
