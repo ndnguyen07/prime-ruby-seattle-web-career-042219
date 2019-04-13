@@ -3,4 +3,3 @@
 
 prime = []
 
-def
